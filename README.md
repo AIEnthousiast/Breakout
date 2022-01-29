@@ -1,2 +1,2 @@
 # Breakout
-BreakOut : Projet Isima
+BreakOut : Projet Isima (Lorenzo Barbey - Boris Ouya)
